@@ -1,13 +1,8 @@
 {
-  "Users": {
-    "id": "int",
-    "firstName": "string",
-    "sureName": "string",
-    "createdAt": "date",
-    "comments": "Comment[]"
-  },
-  "Comment": {
-    "body": "string",
-    "post": "Post"
+  "Post": {
+    "title": "string",
+    "views": "int",
+    "published": "boolean",
+    "createdAt": "date"
   }
 }
