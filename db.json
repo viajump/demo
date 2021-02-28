@@ -3,7 +3,6 @@
     "id": "int",
     "firstName": "string",
     "sureName": "string",
-    "createdAt": "date",
-    "comments": "Comment[]"
+    "createdAt": "date"
   }
 }
