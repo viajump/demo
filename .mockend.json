@@ -1,8 +1,8 @@
 {
-  "Post": {
-    "title": "string",
-    "views": "int",
-    "published": "boolean",
+  "user": {
+    "id": "int",
+    "firstName": "string",
+    "surname": "string",
     "createdAt": "date",
     "comments": "Comment[]"
   },
