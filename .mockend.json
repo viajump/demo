@@ -2,7 +2,7 @@
   "Users": {
     "id": "int",
     "firstName": "string",
-    "surname": "string",
+    "sureName": "string",
     "createdAt": "date",
     "comments": "Comment[]"
   },
