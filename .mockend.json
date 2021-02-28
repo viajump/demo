@@ -1,9 +1,9 @@
 {
   "user": {
     "id": "1",
-    "firstName": "int",
-    "lastName": "boolean",
-    "createdAt": "date",
+    "firstName": "John",
+    "lastName": "Doe",
+    "createdAt": "28/02/2021",
     "comments": "Comment[]"
   }
 }
