@@ -1,8 +1,8 @@
 {
-  "users": {
-    "id": "int",
-    "firstName": "string",
-    "sureName": "string",
-    "createdAt": "date"
+  "user": {
+    "id": "1",
+    "firstName": "John",
+    "sureName": "Doe",
+    "createdAt": "28/02/2021"
   }
 }
