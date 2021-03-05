@@ -3,6 +3,7 @@
     "id": "1",
     "firstName": "James",
     "sureName": "Doe",
-    "createdAt": "28/02/2021"
+    "createdAt": "28/02/2021",
+    "hobby": {coding, boxing} 
   }
 }
